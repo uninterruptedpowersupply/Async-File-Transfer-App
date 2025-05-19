@@ -3,6 +3,10 @@ Async File Transfer App
 
 This project presents a high-performance, asynchronous file transfer application designed for rapid and efficient data exchange across local area networks. Built with a user-friendly graphical interface, it is specifically engineered to handle the complexities of transferring large files and is optimized with considerations for traditional Hard Disk Drives (HDDs), aiming to maximize throughput even on mechanical storage. The application provides a robust solution for users needing to move significant amounts of data between computers on the same network segment with speed and reliability.
 
+![image](https://github.com/user-attachments/assets/7c5fd797-c3da-4c04-9d54-33be59594f0f)
+![image](https://github.com/user-attachments/assets/385c7afd-8cf8-4339-b866-732528b4f2a6)
+
+
 Overview
 -------------
 
